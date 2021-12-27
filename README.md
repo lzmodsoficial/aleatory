@@ -1,4 +1,4 @@
-# 🌀 Aleatory Bot v4.2 🌀
+# 🌀Aleatory Bot v4.2🌀
 <div align="center">
 </div>
 <p align="center">
