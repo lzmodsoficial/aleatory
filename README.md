@@ -64,7 +64,8 @@ Quando terminar, só digitar este comando:
              sh start.sh 
 
 
-escaneie o qr code, voce vai precisar de 1 segundo celular, abra o whatsapp em seu segundo celular clique nos 3 pontinhos e clique em whatsapp web ( ou aparelhos conectados, linked devices) e escaneie o qr code q aparece no termux em seu celular primario.
+escaneie o qr code, voce vai precisar de 1 segundo celular, abra o whatsapp em seu segundo celular clique nos 3 pontinhos 
+e clique em whatsapp web ( ou aparelhos conectados, linked devices) e escaneie o qr code q aparece no termux em seu celular primario.
     
     seja rapido! se demorar escanear ou der um erro significa q o qr code ja esta invalido.
     
