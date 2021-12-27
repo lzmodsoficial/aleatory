@@ -22,7 +22,7 @@ caso duvidas entre em contato! ( Clique Em Cima )
     
 ----------- Bots Gratis Para Uso -----------
     
-- [Grupo Com Bots](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
+- [Grupo Com Bots ( Clique )](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
     
 
 ## COMANDOS PARA INSTALAÇÃO DO BOT
@@ -37,7 +37,6 @@ caso duvidas entre em contato! ( Clique Em Cima )
 
 pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install wget -y && pkg install git -y && pkg install python -y
 
-
 (2)---------------------------------------
 
         termux-setup-storage 
@@ -48,11 +47,9 @@ pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-l
 
 (4)----------------------------------------
 
-git clone github.com/lzmodsoficial/aleatorybot4.1.git
+git clone https://github.com/NuevaGeneracionALB/aleatory.git
 
 (5)----------------------------------------
-    
-(Quando terminar, esse vai ser o final)
 
             cd aleatory
 
@@ -62,13 +59,22 @@ git clone github.com/lzmodsoficial/aleatorybot4.1.git
 
 (7)---------------------------------------
 
-(Quando terminar, só digitar este comando:
-
+Quando terminar, só digitar este comando:
 
              sh start.sh 
 
 
-para ligar, e escanear o qrcode, vai precisar de um segundo celular, pra tirar a foto do qrcode e utilizar como base, para escanear a foto que você tirou, com um whatsapp secundário, e escanear a foto, através do WhatsApp web, que fica nos 3 pontinhos do WhatsApp, ou pode se chamar, aparelhos conectados, ou linked devices.)
+escaneie o qr code, voce vai precisar de 1 segundo celular, abra o whatsapp em seu segundo celular clique nos 3 pontinhos e clique em whatsapp web ( ou aparelhos conectados, linked devices) e escaneie o qr code q aparece no termux em seu celular primario.
+    
+    seja rapido! se demorar escanear ou der um erro significa q o qr code ja esta invalido.
+    
+    para gerar um novo aperta o botao ( ctrl ) do termux e ( c ) do seu teclado normal, depois digite sh start.sh.
+    
+    ou se ja escaneou e ta tendo problemas ou mudou de numero / zap do bot? aperte exit no termux ( puxe a aba de notificaçoes do seu celular, vai ter la termux voce clica em exit) isso se o termux estiver aberto! se n aparece esse notificaçao do termux ( 1 session ) significa q n esta aberto, abra e vamos prosseguir, 
+    
+    cole esses 3 comandos ( juntos como estao ai ):
+    
+    cd /sdcard/aleatory && rm BarBar.json && sh start.sh
 
 -------------------------------------------
 
@@ -76,9 +82,7 @@ COMANDOS PARA LIGAR, APÓS O TERMUX FECHADO.
 
 -------------------------------------------
 
-cd /sdcard/aleatory 
-
-sh start.sh 
+cd /sdcard/aleatory && sh start.sh 
 
 >    Somente esses 2.
 
