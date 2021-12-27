@@ -1,20 +1,17 @@
-# 🌀 Aleatory Bot v4.1 🌀
+# 🌀 Aleatory Bot v4.2 🌀
 <div align="center">
 </div>
 <p align="center">
-  <a href="https://github.com/lzmodsoficial/aleatorybot4.1"><img title=":]" src="https://img.shields.io/badge/:]-LZ DOMINA BB-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-<img src="https://telegra.ph/file/249a1ac9ecb5fbfb4c9cc.jpg" alt="Aleatory Bot v4.1 " width="300" />
+<img src="https://telegra.ph/file/249a1ac9ecb5fbfb4c9cc.jpg" alt="Aleatory Bot v4.2 " width="300" />
 
 </div>
 <p align="center">
-  <a href="https://github.com/lzmodsoficial/aleatorybot4.1"><img title="Author" src="https://img.shields.io/badge/Author-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
+   <a href="https://github.com/lzmodsoficial/aleatorybot4.1"><img title=":]" src="https://img.shields.io/badge/:]-LZ DOMINA BB-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
 
-Um bot simples para whatsapp que está em desenvolvimento para animar os dias do seu grupo!
-  
-    
-    
+Um bot simples para whatsapp que está em desenvolvimento.
+   
 ----------- Para Duvidas -----------
     
 caso duvidas entre em contato! ( Clique Em Cima )
@@ -23,15 +20,9 @@ caso duvidas entre em contato! ( Clique Em Cima )
     
 - [LZ MODS](https://wa.me/556284944742)
     
-Grupo OFC: [Clique aqui](https://chat.whatsapp.com/CMsL8gkLCN4CxeRwGEFtYA)
-    
 ----------- Bots Gratis Para Uso -----------
-
-Dudinha Bot [ Prefixo: / ] [Clique Aqui](https://wa.me/5527988032033)
     
-Dark Bot [ Prefixo: . ] [Clique Aqui](https://wa.me/556285022734)
-    
-Lord Bot [ Prefixo: * ] [Clique Aqui](https://wa.me/556291307572)
+- [Grupo Com Bots](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
     
 
 ## COMANDOS PARA INSTALAÇÃO DO BOT
