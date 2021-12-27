@@ -69,7 +69,7 @@ e clique em whatsapp web ( ou aparelhos conectados, linked devices) e escaneie o
     
     seja rapido! se demorar escanear ou der um erro significa q o qr code ja esta invalido.
     
-    para gerar um novo aperta o botao ( ctrl ) do termux e ( c ) do seu teclado normal, depois digite sh start.sh.
+    para gerar um novo aperta o botao ( ctrl ) do termux e ( c ) do seu teclado normal, depois digite sh start.sh
     
     ou se ja escaneou e ta tendo problemas ou mudou de numero / zap do bot? aperte exit no termux ( puxe a aba de notificaçoes do seu celular, vai ter la termux voce clica em exit) isso se o termux estiver aberto! se n aparece esse notificaçao do termux ( 1 session ) significa q n esta aberto, abra e vamos prosseguir, 
     
