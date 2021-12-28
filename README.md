@@ -24,7 +24,8 @@ caso duvidas entre em contato! ( Clique Em Cima )
     
 - [Grupo Com Bots ( Clique )](https://chat.whatsapp.com/DPZKtPOZvUBIsaluTNB5rh)
     
-
+--------------------------------------------
+    
 ## COMANDOS PARA INSTALAÇÃO DO BOT
 ```bash
  
@@ -56,5 +57,5 @@ cd /sdcard/aleatory && sh start.sh
 
 -------------------------------------------
 ```
-    
+- [Video Ensinando Como Instalar ( Clique )](https://www.youtube.com/watch?v=lNjOJAdqNkk&t=6s)
     
